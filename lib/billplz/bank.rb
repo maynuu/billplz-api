@@ -1,5 +1,5 @@
 module Billplz
-  class FpxBank < Model
+  class Bank < Model
 
     get :all, "/fpx_banks"
 
