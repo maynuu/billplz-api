@@ -10,7 +10,7 @@ require "billplz/bill"
 require "billplz/collection"
 require "billplz/open_collection"
 require "billplz/registration"
-require "billplz/fpx_bank"
+require "billplz/bank"
 
 module Billplz
 end
